@@ -30,8 +30,6 @@ class Track
     const STRAIGHT_ELEMENT_TYPE = 'straight';
     const CURVE_ELEMENT_TYPE = 'curve';
 
-
-    /** @var array */
     /**
      * The array of the provided track element types.
      *
